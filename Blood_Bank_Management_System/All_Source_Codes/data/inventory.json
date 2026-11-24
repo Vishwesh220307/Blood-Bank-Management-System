@@ -1,0 +1,140 @@
+[
+    {
+        "date": "2024-01-15",
+        "entries": [
+            {
+                "blood_group": "A+",
+                "quantity": 5
+            },
+            {
+                "blood_group": "O+",
+                "quantity": 4
+            }
+        ]
+    },
+    {
+        "date": "2026-06-10",
+        "entries": [
+            {
+                "blood_group": "A+",
+                "quantity": 9
+            },
+            {
+                "blood_group": "O+",
+                "quantity": 4
+            },
+            {
+                "blood_group": "B+",
+                "quantity": 2
+            },
+            {
+                "blood_group": "AB+",
+                "quantity": 2
+            },
+            {
+                "blood_group": "AB-",
+                "quantity": 4
+            }
+        ]
+    },
+    {
+        "date": "2026-06-11",
+        "entries": [
+            {
+                "blood_group": "A+",
+                "quantity": 9
+            },
+            {
+                "blood_group": "O+",
+                "quantity": 4
+            },
+            {
+                "blood_group": "B+",
+                "quantity": 7
+            },
+            {
+                "blood_group": "AB+",
+                "quantity": 4
+            },
+            {
+                "blood_group": "AB-",
+                "quantity": 4
+            }
+        ]
+    },
+    {
+        "date": "2026-06-12",
+        "entries": [
+            {
+                "blood_group": "A+",
+                "quantity": 9
+            },
+            {
+                "blood_group": "O+",
+                "quantity": 4
+            },
+            {
+                "blood_group": "B+",
+                "quantity": 16
+            },
+            {
+                "blood_group": "AB+",
+                "quantity": 4
+            },
+            {
+                "blood_group": "AB-",
+                "quantity": 4
+            }
+        ]
+    },
+    {
+        "date": "2026-06-13",
+        "entries": [
+            {
+                "blood_group": "A+",
+                "quantity": 9
+            },
+            {
+                "blood_group": "O+",
+                "quantity": 4
+            },
+            {
+                "blood_group": "B+",
+                "quantity": 16
+            },
+            {
+                "blood_group": "AB+",
+                "quantity": 4
+            },
+            {
+                "blood_group": "AB-",
+                "quantity": 4
+            }
+        ]
+    },
+    {
+        "date": "2026-06-14",
+        "entries": [
+            {
+                "blood_group": "A+",
+                "quantity": 9
+            },
+            {
+                "blood_group": "O+",
+                "quantity": 4
+            },
+            {
+                "blood_group": "B+",
+                "quantity": 16
+            },
+            {
+                "blood_group": "AB+",
+                "quantity": 4
+            },
+            {
+                "blood_group": "AB-",
+                "quantity": 4
+            }
+        ]
+    }
+]

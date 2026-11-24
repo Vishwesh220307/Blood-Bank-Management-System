@@ -1,0 +1,79 @@
+[
+    {
+        "date": "2026-06-10",
+        "entries": []
+    },
+    {
+        "date": "2026-06-11",
+        "entries": []
+    },
+    {
+        "date": "2026-06-12",
+        "entries": [
+            {
+                "donation_id": "DR101",
+                "donor": "Hritwiz Verma",
+                "donation_date": "2026-6-13",
+                "quantity": 10
+            },
+            {
+                "donation_id": "D002",
+                "donor": "Aditi kumar",
+                "donation_date": "2026-6-13",
+                "quantity": 1
+            },
+            {
+                "donation_id": "D101",
+                "donor": "Hritwiz Verma",
+                "donation_date": "2026-6-13",
+                "quantity": 1
+            }
+        ]
+    },
+    {
+        "date": "2026-06-13",
+        "entries": [
+            {
+                "donation_id": "DR101",
+                "donor": "Hritwiz Verma",
+                "donation_date": "2026-6-13",
+                "quantity": 10
+            },
+            {
+                "donation_id": "D002",
+                "donor": "Aditi kumar",
+                "donation_date": "2026-6-13",
+                "quantity": 1
+            },
+            {
+                "donation_id": "D101",
+                "donor": "Hritwiz Verma",
+                "donation_date": "2026-6-13",
+                "quantity": 1
+            }
+        ]
+    },
+    {
+        "date": "2026-06-14",
+        "entries": [
+            {
+                "donation_id": "DR101",
+                "donor": "Hritwiz Verma",
+                "donation_date": "2026-6-13",
+                "quantity": 10
+            },
+            {
+                "donation_id": "D002",
+                "donor": "Aditi kumar",
+                "donation_date": "2026-6-13",
+                "quantity": 1
+            },
+            {
+                "donation_id": "D101",
+                "donor": "Hritwiz Verma",
+                "donation_date": "2026-6-13",
+                "quantity": 1
+            }
+        ]
+    }
+]

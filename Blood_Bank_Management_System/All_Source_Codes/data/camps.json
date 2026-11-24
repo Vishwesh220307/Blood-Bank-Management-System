@@ -1,0 +1,75 @@
+[
+    {
+        "date": "2026-06-10",
+        "entries": []
+    },
+    {
+        "date": "2026-06-11",
+        "entries": [
+            {
+                "camp_id": "52",
+                "camp_name": "Jatin",
+                "location": "New delhi",
+                "camp_date": "2026-10-12",
+                "participants": 0
+            }
+        ]
+    },
+    {
+        "date": "2026-06-12",
+        "entries": [
+            {
+                "camp_id": "52",
+                "camp_name": "Jatin",
+                "location": "New delhi",
+                "camp_date": "2026-10-12",
+                "participants": 0
+            },
+            {
+                "camp_id": "1",
+                "camp_name": "Nig",
+                "location": "Delhi",
+                "camp_date": "2026-6-13",
+                "participants": 0
+            }
+        ]
+    },
+    {
+        "date": "2026-06-13",
+        "entries": [
+            {
+                "camp_id": "52",
+                "camp_name": "Jatin",
+                "location": "New delhi",
+                "camp_date": "2026-10-12",
+                "participants": 0
+            },
+            {
+                "camp_id": "1",
+                "camp_name": "Nig",
+                "location": "Delhi",
+                "camp_date": "2026-6-13",
+                "participants": 0
+            }
+        ]
+    },
+    {
+        "date": "2026-06-14",
+        "entries": [
+            {
+                "camp_id": "52",
+                "camp_name": "Jatin",
+                "location": "New delhi",
+                "camp_date": "2026-10-12",
+                "participants": 0
+            },
+            {
+                "camp_id": "1",
+                "camp_name": "Nig",
+                "location": "Delhi",
+                "camp_date": "2026-6-13",
+                "participants": 0
+            }
+        ]
+    }
+]
